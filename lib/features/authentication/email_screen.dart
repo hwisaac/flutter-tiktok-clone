@@ -86,6 +86,7 @@ String? _isEmailValid() {
                 controller: _emailController,
                 keyboardType: TextInputType.emailAddress,
                 onEditingComplete: _onSubmit,
+                autocorrect: false,
                 decoration: InputDecoration(
                   hintText: "Email",
                   errorText: _isEmailValid(),
