@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+FE: flutter
+BE: firebase
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
